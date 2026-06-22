@@ -1,0 +1,103 @@
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error Page:FSSAI  </title>
+<meta name="viewport" content="width=device-width, inintial-scale=1.0">
+<link rel="shortcut icon" href="https://fssai.gov.in/assets/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://fssai.gov.in/assets/images/favicon.ico" type="image/x-icon">
+<link href="https://fssai.gov.in/assets/css/style.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700,700i,900" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Didact+Gothic|Open+Sans+Condensed:300,700|PT+Sans+Narrow" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="https://fssai.gov.in/assets/css/jquery.treeview.css">
+<link rel="stylesheet" type="text/css" href="https://fssai.gov.in/assets/css/ajaxtabs.css">
+<link rel="stylesheet" type="text/css" href="https://fssai.gov.in/assets/css/cmsprint.css" media="print">
+<link rel="alternate stylesheet" href="https://fssai.gov.in/assets/css/green.css" media="screen" title="green" />
+<link rel="alternate stylesheet" href="https://fssai.gov.in/assets/css/blue.css" media="screen" title="blue" />
+<link rel="alternate stylesheet" href="https://fssai.gov.in/assets/css/change.css" media="screen" title="change" />
+<!--<link rel="stylesheet" type="text/css" href="/assets/css/cms-print.css">-->
+<style>
+.testing{
+	width:12.5%;
+	float:left;
+	overflow:hidden;
+}
+
+.common_icon li {
+    float: left;
+    display: inline;
+    padding: 4px 6px;
+    position: relative;
+}
+
+.kc_ .cse_block_container{
+	display:none !important;
+}
+.gsc-adBlock {
+	display:none !important;
+}
+
+</style> 
+<header>
+<div class="header_top">
+<div class="container-fluid">
+<nav class="navbar">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+    </div>
+
+     
+    <div class="collapse navbar-collapse" id="myNavbar"> 
+      
+    </div>
+</nav>
+
+</div>
+</div>
+
+
+
+<section class="pt8">
+<h3 align="center"><b><u>Sorry! Error 404 - Page Not Found</u></b> </h3>
+    <div class="container-fluid">
+        <div class="row">
+            <div id="content-area" class="col-sm-12 col-xs-12 content-area">
+                <div class="col-sm-12 col-xs-12 ">
+				<div class="col-sm-12 col-xs-12 ">
+                                    <div class="col-sm-12 col-xs-12 gilT">
+			
+				<p>The page you are attempting to access cannot be found. It may have been moved / renamed or may no longer exist.
+				We have recently redesigned our website to make it easier and faster for you to find the information you need. This means the bookmarks and addresses you have used in the past may no longer work.</p>
+				<p>To find the information you are looking for please try one of the following.</p>
+				<p>&nbsp;</p>
+				<ol type="a">
+					 <li>If you typed the page URL, check the spelling.</li>
+					 <li> Go to our <a href="https://fssai.gov.in/"> <strong>Home</strong> </a> page and browse through our topics for the information you want.</li>
+					  <li> Go to our <a href="#" onClick="history.go(-1);return false;"> <strong>Previous</strong> </a> page and browse through our topics for the information you want.</li>
+				</ol> 
+				 
+	
+
+ </div>
+</div>
+   </div>
+</div>
+</section>
+
+
+<div class="footer_bottom">
+    <div class="container-fluid">
+      
+		
+        <p class="text-center copy_right">© 2026 FSSAI - All Rights Reserved. Website Maintained by FSSAI</p>
+        <p class="text-center copy_right">
+			
+		</p>
+    </div>
+</div>
+</footer>
+   
